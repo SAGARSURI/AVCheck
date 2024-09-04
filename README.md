@@ -16,7 +16,6 @@ Never worry about audio issues again!
 
 - Quick audio setup verification
 - Real-time audio quality assessment
-- Cross-platform compatibility (iOS, Android, macOS)
 - User-friendly interface
 - Instant feedback on audio clarity
 
